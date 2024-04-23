@@ -35,6 +35,12 @@ Please make sure to change the path you are willing to save the plots in `plot_2
 
 #### Note: The dataset used for this project is considered as sensitive data and will only be shared with fellow-researchers under certain conditions.
 
+---------
+
+These HuggingFace tutorials helped alot through this project: \
+https://huggingface.co/learn/nlp-course/en/chapter5/5 \
+https://huggingface.co/learn/nlp-course/chapter7/3?fw=pt
+
 
 ---------
 If there were any problems with the code please do not hesitate to contact me at sahar [dot] omidishayegan [at] mail [dot] mcgill [dot] ca
